@@ -1,0 +1,24 @@
+Description	Sounds
+Normal heart sounds	
+Murmurs	Audio examples
+Aortic stenosis ( early)
+
+& AS- late
+
+Click button to hear AS early murmur.
+Click button to hear AS late murmur.
+Mitral regurgitation	Click button to hear MR wave.
+Pulmonic stenosis	
+Aortic insufficiency	Click this button to hear AI murmur.
+Mitral stenosis	
+Benign murmur	
+Atrial septal defect	
+Ventricular septal defect	
+Patent ductus arteriosus	
+Extra heart sounds	Audio examples
+Split S2	Click to hear Split S2 extra heart sound.
+S3	Click to hear S3 extra heart sound.
+S4	Click to hear S4 extra heart sound.
+Rubs	Audio examples
+Pericardial rub (2 component)	Click to hear pericardial rub 2 components.
+Pericardial rub (3 component)	Click to hear pericardial rub 3 components.
